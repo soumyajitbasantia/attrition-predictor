@@ -3,7 +3,7 @@
 An end-to-end Machine Learning application that predicts the likelihood of an employee leaving a company based on various HR metrics.
 
 ## 🚀 Live Demo
-[PASTE YOUR STREAMLIT URL HERE ONCE DEPLOYED]
+https://attrition-predictor-cgu-2401020020.streamlit.app/
 
 ## ✨ Features
 - **Machine Learning Pipeline**: Automated scaling and encoding using Scikit-learn.
