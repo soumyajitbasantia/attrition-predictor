@@ -146,7 +146,6 @@ with tab2:
     })
     st.table(perf_df)
     
-    st.info(f"The system is currently using the **{metrics['Best Name']}** model for predictions.")
 
     col_cm, col_feat = st.columns(2)
     
@@ -171,3 +170,4 @@ with tab2:
     st.divider()
     st.subheader("Raw Data Preview")
     st.dataframe(df_full.head(10))
+
